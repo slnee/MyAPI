@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phobia</title>
+</head>
+
+<body>
+
+<form id="add_phobia">
+    <input id="name" placeholder="name">
+    <input id="category" placeholder="category">
+    <textarea id="description" placeholder="description">
+    <input id="rareté" placeholder="rareté">
+    <button>Add a Phobia</button>
+</form>
+
+<script>
+    const form = document.getElementById('add_phobia')
+    const nameInpute = document.getElementById('name')
+    const categoryInput = document.getElementById('category')
+    const descriptionInput = document.getElementById('description')
+    const raretéInput = document.getElementById('rareté')
+
+    form.addEventListener('submit', (e) => {
+        e.preventDefault()
+
+        const name = nameInpute.value
+        const category = categoryInput.value
+        const description = descriptionInput.value
+        const rareté = raretéInput.value
+
+    //    fetch('http://localhost:3000/element, {
+    //    method: POST,
+   //         header}')
+    })
+</script>
+</body>
+</html>

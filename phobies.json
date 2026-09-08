@@ -1,87 +1,69 @@
 [
   {
-    "nom": "Ergasiophobie",
-    "categorie": "Situations",
-    "description": "Peur de : operating: work or functioning",
+    "nom": "Arachnophobie",
+    "categorie": "Animal",
+    "description": "Peur des araignées",
     "rarete": "Très commune"
   },
   {
-    "nom": "Arachnophobie",
-    "categorie": "Situations",
-    "description": "Peur des araignées",
-    "rarete": "Commune"
-  },
-  {
     "nom": "Claustrophobie",
-    "categorie": "Situations",
+    "categorie": "Environnement",
     "description": "Peur des espaces clos",
     "rarete": "Très commune"
   },
   {
     "nom": "Agoraphobie",
-    "categorie": "Objets",
-    "description": "Peur de la foule et des lieux publics",
-    "rarete": "Rare"
-  },
-  {
-    "nom": "Acrophobie",
-    "categorie": "Animaux",
-    "description": "Peur des hauteurs",
-    "rarete": "Peu commune"
+    "categorie": "Environnement",
+    "description": "Peur de la foule",
+    "rarete": "commune"
   },
   {
     "nom": "Ophidiophobie",
-    "categorie": "Surnaturel",
+    "categorie": "Animal",
     "description": "Peur des serpents",
-    "rarete": "Commune"
+    "rarete": "Très commune"
   },
   {
     "nom": "Cynophobie",
-    "categorie": "Environnement",
+    "categorie": "Animal",
     "description": "Peur des chiens",
     "rarete": "Rare"
   },
   {
     "nom": "Astraphobie",
-    "categorie": "Autre",
+    "categorie": "Environnement",
     "description": "Peur des orages",
     "rarete": "Rare"
   },
   {
     "nom": "Trypanophobie",
-    "categorie": "Animaux",
+    "categorie": "Objet",
     "description": "Peur des aiguilles",
-    "rarete": "Très commune"
-  },
-  {
-    "nom": "Phobie sociale",
-    "categorie": "Animaux",
-    "description": "Peur des interactions sociales",
-    "rarete": "Extrêmement rare"
+    "rarete": "rare"
   },
   {
     "nom": "Mysophobie",
     "categorie": "Objets",
     "description": "Peur de la saleté",
-    "rarete": "Peu commune"
-  },
-  {
-    "nom": "Émétophobie",
-    "categorie": "Situations",
-    "description": "Peur de vomir",
     "rarete": "Très rare"
   },
   {
+    "nom": "Émétophobie",
+    "categorie": "Environnement",
+    "description": "Peur de vomir",
+    "rarete": "commune"
+  },
+  {
     "nom": "Nyctophobie",
-    "categorie": "Social",
+    "categorie": "Environnement",
     "description": "Peur de l'obscurité",
-    "rarete": "Extrêmement rare"
+    "rarete": "très rare"
   },
   {
     "nom": "Aeroalgophobie",
     "categorie": "Complexe",
-    "description": "Peur combinée ou spécifique impliquant l'air et la douleur",
-    "rarete": "Extrêmement rare"
+    "description": "Peur de l'air",
+    "rarete": "Très rare"
   },
   {
     "nom": "Algoandrophobie",
