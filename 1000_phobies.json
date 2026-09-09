@@ -1,0 +1,2692 @@
+[
+  {
+    "id": "arachnophobie",
+    "description": "Peur des araignées.",
+    "categorie": "Animaux",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "ophidiophobie",
+    "description": "Peur des serpents.",
+    "categorie": "Animaux",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "cynophobie",
+    "description": "Peur des chiens.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ailurophobie",
+    "description": "Peur des chats.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": "musophobie",
+    "description": "Peur des rats.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": "musophobie2",
+    "description": "Peur des souris.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": "blattophobie",
+    "description": "Peur des cafards.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": "apiphobie",
+    "description": "Peur des abeilles.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": "spheksophobie",
+    "description": "Peur des guêpes.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": "entomophobie",
+    "description": "Peur des insectes.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": "mottephobie",
+    "description": "Peur des mites.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": "acarophobie",
+    "description": "Peur des bêtes qui grouillent.",
+    "categorie": "Animaux",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "scoleciphobie",
+    "description": "Peur des vers/chenilles.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": "héliciphobie",
+    "description": "Peur des escargots.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": "Ranidaphobie",
+    "description": "Peur des grenouilles.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": "Batracophobie",
+    "description": "Peur des batraciens.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+
+
+
+
+  
+
+  {
+    "id": "lézardsphobie",
+    "description": "Peur des lézards.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "requinsphobie",
+    "description": "Peur des requins.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "pieuvresphobie",
+    "description": "Peur des pieuvres.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "crabesphobie",
+    "description": "Peur des crabes.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "poissonsphobie",
+    "description": "Peur des poissons.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "baleinesphobie",
+    "description": "Peur des baleines.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "chauvessourisphobie",
+    "description": "Peur des chauves-souris.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "oiseauxphobie",
+    "description": "Peur des oiseaux.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "chevauxphobie",
+    "description": "Peur des chevaux.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "vachesphobie",
+    "description": "Peur des vaches.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "loupsphobie",
+    "description": "Peur des loups.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "oursphobie",
+    "description": "Peur des ours.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "lionsphobie",
+    "description": "Peur des lions.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "éléphantsphobie",
+    "description": "Peur des éléphants.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "hippopotamesphobie",
+    "description": "Peur des hippopotames.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "singesphobie",
+    "description": "Peur des singes.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "scorpionsphobie",
+    "description": "Peur des scorpions.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "parasitesphobie",
+    "description": "Peur des parasites.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "larvesphobie",
+    "description": "Peur des larves.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "essaimsphobie",
+    "description": "Peur des essaims.",
+    "categorie": "Animaux",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "acrophobie",
+    "description": "Peur intense ou persistante liée à hauteurs.",
+    "categorie": "Nature",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "grottesphobie",
+    "description": "Peur intense ou persistante liée à grottes.",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "crevassephobie",
+    "description": "Peur intense ou persistante liée à crevasse.",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "forêtsphobie",
+    "description": "Peur intense ou persistante liée à forêts.",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "thalassophobie",
+    "description": "Peur intense ou persistante liée à eau profonde.",
+    "categorie": "Nature",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "sablesmouvantsphobie",
+    "description": "Peur intense ou persistante liée à sables mouvants.",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "neigephobie",
+    "description": "Peur intense ou persistante liée à neige.",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "astraphobie",
+    "description": "Peur intense ou persistante liée à orages.",
+    "categorie": "Nature",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "brontophobie",
+    "description": "Peur intense ou persistante liée à tonnerre.",
+    "categorie": "Nature",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "obscuriténaturellephobie",
+    "description": "Peur intense ou persistante liée à obscurité naturelle.",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "abyssesphobie",
+    "description": "Peur intense ou persistante liée à abysses.",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "espacesimmensesphobie",
+    "description": "Peur intense ou persistante liée à espaces immenses.",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "bruitphobie",
+    "description": "Peur intense ou persistante liée à bruit .",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "silencephobie",
+    "description": "Peur intense ou persistante liée à silence .",
+    "categorie": "Nature",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "aviophobie",
+    "description": "Peur intense ou persistante liée à prendre l'avion.",
+    "categorie": "Situations",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "prendrelascenseurphobie",
+    "description": "Peur intense ou persistante liée à prendre l'ascenseur.",
+    "categorie": "Situations",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "trainsphobie",
+    "description": "Peur intense ou persistante liée à les trains.",
+    "categorie": "Situations",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "espaceliminairephobie",
+    "description": "Peur intense ou persistante liée à les espaceliminaire.",
+    "categorie": "Situations",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "foulesphobie",
+    "description": "Peur intense ou persistante liée à les foules.",
+    "categorie": "Situations",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "parlerdevantgroupephobie",
+    "description": "Peur intense ou persistante liée à parler devant un groupe.",
+    "categorie": "Situations",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "inconnuphobie",
+    "description": "Peur intense ou persistante liée à l inconnu.",
+    "categorie": "Situations",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "êtreobservéphobie",
+    "description": "Peur intense ou persistante liée à être observé.",
+    "categorie": "Situations",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "prendrebateauphobie",
+    "description": "Peur intense ou persistante liée à prendre un bateau.",
+    "categorie": "Situations",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "allerchezdentistephobie",
+    "description": "Peur intense ou persistante liée à aller chez le dentiste.",
+    "categorie": "Situations",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "allerlhôpitalphobie",
+    "description": "Peur intense ou persistante liée à aller à l'hôpital.",
+    "categorie": "Situations",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "fantomephobie",
+    "description": "Peur intense ou persistante liée à fantome.",
+    "categorie": "Situations",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "êtreentourémiroirsphobie",
+    "description": "Peur intense ou persistante liée à être entouré de miroirs.",
+    "categorie": "Situations",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "êtrelabyrinthephobie",
+    "description": "Peur intense ou persistante liée à être dans un labyrinthe.",
+    "categorie": "Situations",
+    "rareté": "Peu commune"
+  },
+  {
+    "id": "sangphobie",
+    "description": "Peur intense ou persistante liée à le sang.",
+    "categorie": "Médical",
+    "rareté": "Rare"
+  },
+  {
+    "id": "aiguillesphobie",
+    "description": "Peur intense ou persistante liée à les aiguilles.",
+    "categorie": "Médical",
+    "rareté": "Rare"
+  },
+  {
+    "id": "blessuresphobie",
+    "description": "Peur intense ou persistante liée à les blessures.",
+    "categorie": "Médical",
+    "rareté": "Rare"
+  },
+  {
+    "id": "maladiesphobie",
+    "description": "Peur intense ou persistante liée à les maladies.",
+    "categorie": "Médical",
+    "rareté": "Rare"
+  },
+  {
+    "id": "émétophobie",
+    "description": "Peur intense ou persistante liée à vomir.",
+    "categorie": "Médical",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "pnigophobie",
+    "description": "Peur intense ou persistante liée à s'étouffer.",
+    "categorie": "Médical",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "ballonsphobie",
+    "description": "Peur intense ou persistante liée à ballons.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "poupéesphobie",
+    "description": "Peur intense ou persistante liée à poupées.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "coulrophobie",
+    "description": "Peur intense ou persistante liée à clowns.",
+    "categorie": "Objets",
+    "rareté": "Très commune"
+  },
+  {
+    "id": "masquesphobie",
+    "description": "Peur intense ou persistante liée à masques.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "peluchesphobie",
+    "description": "Peur intense ou persistante liée à peluches.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "statuesphobie",
+    "description": "Peur intense ou persistante liée à statues.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  
+ 
+
+
+
+
+
+
+  {
+    "id": "aspirateursphobie",
+    "description": "Peur intense ou persistante liée à aspirateurs.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sèchecheveuxphobie",
+    "description": "Peur intense ou persistante liée à sèche-cheveux.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mixeursphobie",
+    "description": "Peur intense ou persistante liée à mixeurs.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "blendersphobie",
+    "description": "Peur intense ou persistante liée à blenders.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "robotsménagersphobie",
+    "description": "Peur intense ou persistante liée à robots ménagers.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "tondeusesphobie",
+    "description": "Peur intense ou persistante liée à tondeuses.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "tronçonneusesphobie",
+    "description": "Peur intense ou persistante liée à tronçonneuses.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "perceusesphobie",
+    "description": "Peur intense ou persistante liée à perceuses.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sciesphobie",
+    "description": "Peur intense ou persistante liée à scies.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "marteauxphobie",
+    "description": "Peur intense ou persistante liée à marteaux.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "couteauxphobie",
+    "description": "Peur intense ou persistante liée à couteaux.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ciseauxphobie",
+    "description": "Peur intense ou persistante liée à ciseaux.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "aiguillescoudrephobie",
+    "description": "Peur intense ou persistante liée à aiguilles à coudre.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "épinglettesphobie",
+    "description": "Peur intense ou persistante liée à épinglettes.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "punaisesphobie2",
+    "description": "Peur intense ou persistante liée à punaises.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "clousphobie",
+    "description": "Peur intense ou persistante liée à clous.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "visphobie",
+    "description": "Peur intense ou persistante liée à vis.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "outilsélectriquesphobie",
+    "description": "Peur intense ou persistante liée à outils électriques.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "machinesindustriellesphobie",
+    "description": "Peur intense ou persistante liée à machines industrielles.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "engrenagesphobie",
+    "description": "Peur intense ou persistante liée à engrenages.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "poupéesanciennesphobie",
+    "description": "Peur intense ou persistante liée à poupées anciennes.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "poupéesporcelainephobie",
+    "description": "Peur intense ou persistante liée à poupées en porcelaine.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "poupéesyeuxphobie",
+    "description": "Peur intense ou persistante liée à poupées sans yeux.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "masquesanciensphobie",
+    "description": "Peur intense ou persistante liée à masques anciens.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "statueshumainesphobie",
+    "description": "Peur intense ou persistante liée à statues humaines.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bustesphobie",
+    "description": "Peur intense ou persistante liée à bustes.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mannequinsvitrinephobie",
+    "description": "Peur intense ou persistante liée à mannequins de vitrine.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "vitrinesphobie",
+    "description": "Peur intense ou persistante liée à vitrines.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetsantiquesphobie",
+    "description": "Peur intense ou persistante liée à objets antiques.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetsrouillésphobie",
+    "description": "Peur intense ou persistante liée à objets rouillés.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetscassésphobie",
+    "description": "Peur intense ou persistante liée à objets cassés.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetsabandonnésphobie",
+    "description": "Peur intense ou persistante liée à objets abandonnés.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "objetstrouvésphobie",
+    "description": "Peur intense ou persistante liée à objets trouvés.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetsinconnusphobie",
+    "description": "Peur intense ou persistante liée à objets inconnus.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "boîtesferméesphobie",
+    "description": "Peur intense ou persistante liée à boîtes fermées.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "coffresphobie",
+    "description": "Peur intense ou persistante liée à coffres.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mallettesphobie",
+    "description": "Peur intense ou persistante liée à mallettes.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "valisesphobie",
+    "description": "Peur intense ou persistante liée à valises.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "casiersphobie",
+    "description": "Peur intense ou persistante liée à casiers.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "tiroirsfermésphobie",
+    "description": "Peur intense ou persistante liée à tiroirs fermés.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "portesverrouilléesphobie",
+    "description": "Peur intense ou persistante liée à portes verrouillées.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "fenêtresverrouilléesphobie",
+    "description": "Peur intense ou persistante liée à fenêtres verrouillées.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "serruresphobie",
+    "description": "Peur intense ou persistante liée à serrures.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "clésphobie",
+    "description": "Peur intense ou persistante liée à clés.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "clésrouilléesphobie",
+    "description": "Peur intense ou persistante liée à clés rouillées.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "serruresanciennesphobie",
+    "description": "Peur intense ou persistante liée à serrures anciennes.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "portesgrincentphobie",
+    "description": "Peur intense ou persistante liée à portes qui grincent.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "fenêtresclaquentphobie",
+    "description": "Peur intense ou persistante liée à fenêtres qui claquent.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "rideauxphobie",
+    "description": "Peur intense ou persistante liée à rideaux.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "storesphobie",
+    "description": "Peur intense ou persistante liée à stores.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "aspirateursrobotsphobie",
+    "description": "Peur intense ou persistante liée à aspirateurs robots.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "robotshumanoïdesphobie",
+    "description": "Peur intense ou persistante liée à robots humanoïdes.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "robotsjouetsphobie",
+    "description": "Peur intense ou persistante liée à robots jouets.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "dronesphobie",
+    "description": "Peur intense ou persistante liée à drones.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "camérasphobie",
+    "description": "Peur intense ou persistante liée à caméras.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "appareilsphotophobie",
+    "description": "Peur intense ou persistante liée à appareils photo.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "télévisionsanciennesphobie",
+    "description": "Peur intense ou persistante liée à télévisions anciennes.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "radiosanciennesphobie",
+    "description": "Peur intense ou persistante liée à radios anciennes.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "téléphonesanciensphobie",
+    "description": "Peur intense ou persistante liée à téléphones anciens.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "téléphonescadranphobie",
+    "description": "Peur intense ou persistante liée à téléphones à cadran.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "écranscassésphobie",
+    "description": "Peur intense ou persistante liée à écrans cassés.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ordinateursanciensphobie",
+    "description": "Peur intense ou persistante liée à ordinateurs anciens.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "disquesdursphobie",
+    "description": "Peur intense ou persistante liée à disques durs.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "câblesemmêlésphobie",
+    "description": "Peur intense ou persistante liée à câbles emmêlés.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "prisesélectriquesphobie",
+    "description": "Peur intense ou persistante liée à prises électriques.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "tableauxélectriquesphobie",
+    "description": "Peur intense ou persistante liée à tableaux électriques.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ampoulesclignotentphobie",
+    "description": "Peur intense ou persistante liée à ampoules qui clignotent.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "néonsphobie",
+    "description": "Peur intense ou persistante liée à néons.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "lumièresstroboscopiquesphobie",
+    "description": "Peur intense ou persistante liée à lumières stroboscopiques.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetsvibrentphobie",
+    "description": "Peur intense ou persistante liée à objets qui vibrent.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "jouetssonoresphobie",
+    "description": "Peur intense ou persistante liée à jouets sonores.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "boîtesmusiquephobie",
+    "description": "Peur intense ou persistante liée à boîtes à musique.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "boîtesmusiqueanciennesphobie",
+    "description": "Peur intense ou persistante liée à boîtes à musique anciennes.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "clochesphobie",
+    "description": "Peur intense ou persistante liée à cloches.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "siffletsphobie",
+    "description": "Peur intense ou persistante liée à sifflets.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sirènesphobie",
+    "description": "Peur intense ou persistante liée à sirènes.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alarmesphobie",
+    "description": "Peur intense ou persistante liée à alarmes.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "métronomesphobie",
+    "description": "Peur intense ou persistante liée à métronomes.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "instrumentsmusiquephobie",
+    "description": "Peur intense ou persistante liée à instruments de musique.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "pianosabandonnésphobie",
+    "description": "Peur intense ou persistante liée à pianos abandonnés.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "orguesphobie",
+    "description": "Peur intense ou persistante liée à orgues.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "manègesphobie",
+    "description": "Peur intense ou persistante liée à manèges.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "carrouselsphobie",
+    "description": "Peur intense ou persistante liée à carrousels.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "grandesrouesphobie",
+    "description": "Peur intense ou persistante liée à grandes roues.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "toboggansphobie",
+    "description": "Peur intense ou persistante liée à toboggans.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "balançoiresphobie",
+    "description": "Peur intense ou persistante liée à balançoires.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "trampolinesphobie",
+    "description": "Peur intense ou persistante liée à trampolines.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ascenseursanciensphobie",
+    "description": "Peur intense ou persistante liée à ascenseurs anciens.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "escalatorsanciensphobie",
+    "description": "Peur intense ou persistante liée à escalators anciens.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "machinessousphobie",
+    "description": "Peur intense ou persistante liée à machines à sous.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "distributeursautomatiquesphobie",
+    "description": "Peur intense ou persistante liée à distributeurs automatiques.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bornesdarcadephobie",
+    "description": "Peur intense ou persistante liée à bornes d'arcade.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "machinesindustriellesanciennesphobie",
+    "description": "Peur intense ou persistante liée à machines industrielles anciennes.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "gruesphobie",
+    "description": "Peur intense ou persistante liée à grues.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "enginschantierphobie",
+    "description": "Peur intense ou persistante liée à engins de chantier.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "tracteursphobie",
+    "description": "Peur intense ou persistante liée à tracteurs.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "tractopellesphobie",
+    "description": "Peur intense ou persistante liée à tractopelles.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "robotschantierphobie",
+    "description": "Peur intense ou persistante liée à robots de chantier.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "grandsventilateursphobie",
+    "description": "Peur intense ou persistante liée à grands ventilateurs.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ventilateursplafondphobie",
+    "description": "Peur intense ou persistante liée à ventilateurs de plafond.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "canalisationsphobie",
+    "description": "Peur intense ou persistante liée à canalisations.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "tuyauxphobie",
+    "description": "Peur intense ou persistante liée à tuyaux.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "conduitesphobie",
+    "description": "Peur intense ou persistante liée à conduites.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "réservoirsphobie",
+    "description": "Peur intense ou persistante liée à réservoirs.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "cuvesphobie",
+    "description": "Peur intense ou persistante liée à cuves.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "citernesphobie",
+    "description": "Peur intense ou persistante liée à citernes.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "chaudièresphobie",
+    "description": "Peur intense ou persistante liée à chaudières.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "radiateursphobie",
+    "description": "Peur intense ou persistante liée à radiateurs.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "cheminéesphobie",
+    "description": "Peur intense ou persistante liée à cheminées.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "foursphobie",
+    "description": "Peur intense ou persistante liée à fours.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": "vertigephobie",
+    "description": "Peur intense ou persistante liée à le vertige.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "pertedéquilibrephobie",
+    "description": "Peur intense ou persistante liée à la perte d'équilibre.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sévanouirphobie",
+    "description": "Peur intense ou persistante liée à s'évanouir.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "perdrecontrôlephobie",
+    "description": "Peur intense ou persistante liée à perdre le contrôle.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "nepluspouvoirbougerphobie",
+    "description": "Peur intense ou persistante liée à ne plus pouvoir bouger.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtreparalyséphobie",
+    "description": "Peur intense ou persistante liée à être paralysé.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtreimmobiliséphobie",
+    "description": "Peur intense ou persistante liée à être immobilisé.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtretouchéphobie",
+    "description": "Peur intense ou persistante liée à être touché.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtrechatouilléphobie",
+    "description": "Peur intense ou persistante liée à être chatouillé.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtresurprisphobie",
+    "description": "Peur intense ou persistante liée à être surpris.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bruitssoudainsphobie",
+    "description": "Peur intense ou persistante liée à les bruits soudains.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sonstrèsfortsphobie",
+    "description": "Peur intense ou persistante liée à les sons très forts.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "crisphobie",
+    "description": "Peur intense ou persistante liée à les cris.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "hurlementsphobie",
+    "description": "Peur intense ou persistante liée à les hurlements.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "chuchotementsphobie",
+    "description": "Peur intense ou persistante liée à les chuchotements.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bruitsinconnusphobie",
+    "description": "Peur intense ou persistante liée à les bruits inconnus.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "bruitsderrièresoiphobie",
+    "description": "Peur intense ou persistante liée à les bruits derrière soi.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bruitsmursphobie",
+    "description": "Peur intense ou persistante liée à les bruits dans les murs.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bruitssouslitphobie",
+    "description": "Peur intense ou persistante liée à les bruits sous le lit.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bruitsnoirphobie",
+    "description": "Peur intense ou persistante liée à les bruits dans le noir.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "silencetotalphobie",
+    "description": "Peur intense ou persistante liée à le silence total.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "silenceprolongéphobie",
+    "description": "Peur intense ou persistante liée à le silence prolongé.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "vibrationsphobie",
+    "description": "Peur intense ou persistante liée à les vibrations.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "tremblementsphobie",
+    "description": "Peur intense ou persistante liée à les tremblements.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "secoussesphobie",
+    "description": "Peur intense ou persistante liée à les secousses.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mouvementsimprévusphobie",
+    "description": "Peur intense ou persistante liée à les mouvements imprévus.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetstombentphobie",
+    "description": "Peur intense ou persistante liée à les objets qui tombent.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "chosesbougentseulesphobie",
+    "description": "Peur intense ou persistante liée à les choses qui bougent seules.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ombresphobie",
+    "description": "Peur intense ou persistante liée à les ombres.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "silhouettesphobie",
+    "description": "Peur intense ou persistante liée à les silhouettes.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "refletsphobie",
+    "description": "Peur intense ou persistante liée à les reflets.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "silhouettesbrouillardphobie",
+    "description": "Peur intense ou persistante liée à les silhouettes dans le brouillard.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "lumièressoudainesphobie",
+    "description": "Peur intense ou persistante liée à les lumières soudaines.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "lumièresclignotantesphobie",
+    "description": "Peur intense ou persistante liée à les lumières clignotantes.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "flashsphobie",
+    "description": "Peur intense ou persistante liée à les flashs.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "écranstrèslumineuxphobie",
+    "description": "Peur intense ou persistante liée à les écrans très lumineux.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "couleurstrèsvivesphobie",
+    "description": "Peur intense ou persistante liée à les couleurs très vives.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "motifsrépétitifsphobie",
+    "description": "Peur intense ou persistante liée à les motifs répétitifs.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "formesirrégulièresphobie",
+    "description": "Peur intense ou persistante liée à les formes irrégulières.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "trousregroupésphobie",
+    "description": "Peur intense ou persistante liée à les trous regroupés.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "texturesvisqueusesphobie",
+    "description": "Peur intense ou persistante liée à les textures visqueuses.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "texturescollantesphobie",
+    "description": "Peur intense ou persistante liée à les textures collantes.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "surfacesmollesphobie",
+    "description": "Peur intense ou persistante liée à les surfaces molles.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "surfacesrugueusesphobie",
+    "description": "Peur intense ou persistante liée à les surfaces rugueuses.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "surfacesgrassesphobie",
+    "description": "Peur intense ou persistante liée à les surfaces grasses.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "surfaceshumidesphobie",
+    "description": "Peur intense ou persistante liée à les surfaces humides.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "matièresspongieusesphobie",
+    "description": "Peur intense ou persistante liée à les matières spongieuses.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetsporeuxphobie",
+    "description": "Peur intense ou persistante liée à les objets poreux.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "chosessuintentphobie",
+    "description": "Peur intense ou persistante liée à les choses qui suintent.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "liquidesinconnusphobie",
+    "description": "Peur intense ou persistante liée à les liquides inconnus.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "odeursfortesphobie",
+    "description": "Peur intense ou persistante liée à les odeurs fortes.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mauvaisesodeursphobie",
+    "description": "Peur intense ou persistante liée à les mauvaises odeurs.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "odeursinconnuesphobie",
+    "description": "Peur intense ou persistante liée à les odeurs inconnues.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "odeursbrûléphobie",
+    "description": "Peur intense ou persistante liée à les odeurs de brûlé.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "odeurschimiquesphobie",
+    "description": "Peur intense ou persistante liée à les odeurs chimiques.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "odeursmoisissurephobie",
+    "description": "Peur intense ou persistante liée à les odeurs de moisissure.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "odeursterrephobie",
+    "description": "Peur intense ou persistante liée à les odeurs de terre.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "odeurspoissonphobie",
+    "description": "Peur intense ou persistante liée à les odeurs de poisson.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "odeursdhôpitalphobie2",
+    "description": "Peur intense ou persistante liée à les odeurs d'hôpital.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "odeurssangphobie",
+    "description": "Peur intense ou persistante liée à les odeurs de sang.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationdêtreobservéphobie",
+    "description": "Peur intense ou persistante liée à la sensation d'être observé.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationdêtresuiviphobie",
+    "description": "Peur intense ou persistante liée à la sensation d'être suivi.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationdêtreenferméphobie",
+    "description": "Peur intense ou persistante liée à la sensation d'être enfermé.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationtomberphobie",
+    "description": "Peur intense ou persistante liée à la sensation de tomber.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationcoulerphobie",
+    "description": "Peur intense ou persistante liée à la sensation de couler.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationsuffoquerphobie",
+    "description": "Peur intense ou persistante liée à la sensation de suffoquer.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationdétoufferphobie",
+    "description": "Peur intense ou persistante liée à la sensation d'étouffer.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationperdrepiedphobie",
+    "description": "Peur intense ou persistante liée à la sensation de perdre pied.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationflottementphobie",
+    "description": "Peur intense ou persistante liée à la sensation de flottement.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sensationtournerphobie",
+    "description": "Peur intense ou persistante liée à la sensation de tourner.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "espacessilencieuxphobie",
+    "description": "Peur intense ou persistante liée à les espaces silencieux.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "espacesvidesphobie",
+    "description": "Peur intense ou persistante liée à les espaces vides.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "piècestropgrandesphobie",
+    "description": "Peur intense ou persistante liée à les pièces trop grandes.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "piècestroppetitesphobie",
+    "description": "Peur intense ou persistante liée à les pièces trop petites.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "plafondstrèshautsphobie",
+    "description": "Peur intense ou persistante liée à les plafonds très hauts.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "plafondstrèsbasphobie",
+    "description": "Peur intense ou persistante liée à les plafonds très bas.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "couloirslongsphobie",
+    "description": "Peur intense ou persistante liée à les couloirs longs.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "couloirsétroitsphobie",
+    "description": "Peur intense ou persistante liée à les couloirs étroits.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "couloirsfenêtresphobie",
+    "description": "Peur intense ou persistante liée à les couloirs sans fenêtres.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "portespoignéephobie",
+    "description": "Peur intense ou persistante liée à les portes sans poignée.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "motifstrousphobie",
+    "description": "Peur intense ou persistante liée à les motifs de trous.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "motifsniddabeillesphobie",
+    "description": "Peur intense ou persistante liée à les motifs en nid d'abeilles.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "grappesformesphobie",
+    "description": "Peur intense ou persistante liée à les grappes de formes.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "surfacescouvertespetitspointsphobie",
+    "description": "Peur intense ou persistante liée à les surfaces couvertes de petits points.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "amaspetitesformesphobie",
+    "description": "Peur intense ou persistante liée à les amas de petites formes.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "texturesrépétéesphobie",
+    "description": "Peur intense ou persistante liée à les textures répétées.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetsasymétriquesphobie",
+    "description": "Peur intense ou persistante liée à les objets asymétriques.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "visagesdéformésphobie",
+    "description": "Peur intense ou persistante liée à les visages déformés.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "visagesexpressionphobie",
+    "description": "Peur intense ou persistante liée à les visages sans expression.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "yeuxréalistesphobie",
+    "description": "Peur intense ou persistante liée à les yeux réalistes.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "silhouetteshumainesimmobilesphobie",
+    "description": "Peur intense ou persistante liée à les silhouettes humaines immobiles.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mannequinsimmobilesphobie",
+    "description": "Peur intense ou persistante liée à les mannequins immobiles.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetsgrandeurnaturephobie",
+    "description": "Peur intense ou persistante liée à les objets grandeur nature.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "statuesgrandeurnaturephobie",
+    "description": "Peur intense ou persistante liée à les statues grandeur nature.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "personnagescirephobie",
+    "description": "Peur intense ou persistante liée à les personnages en cire.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mouvementssaccadésphobie",
+    "description": "Peur intense ou persistante liée à les mouvements saccadés.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mouvementsmécaniquesphobie",
+    "description": "Peur intense ou persistante liée à les mouvements mécaniques.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "gestesrépétitifsphobie",
+    "description": "Peur intense ou persistante liée à les gestes répétitifs.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "comportementsimprévisiblesphobie",
+    "description": "Peur intense ou persistante liée à les comportements imprévisibles.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "changementsbrusquesphobie",
+    "description": "Peur intense ou persistante liée à les changements brusques.",
+    "categorie": "Sensations et phénomènes",
+    "rareté": "Rare"
+  },
+  {
+    "id": "avalercomprimésphobie",
+    "description": "Peur intense ou persistante liée à avaler des comprimés.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "avaleralimentssolidesphobie",
+    "description": "Peur intense ou persistante liée à avaler des aliments solides.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "avaleralimentsmousphobie",
+    "description": "Peur intense ou persistante liée à avaler des aliments mous.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mangeralimentsvisqueuxphobie",
+    "description": "Peur intense ou persistante liée à manger des aliments visqueux.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mangeralimentsinconnusphobie",
+    "description": "Peur intense ou persistante liée à manger des aliments inconnus.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "mangerrestaurantphobie",
+    "description": "Peur intense ou persistante liée à manger dans un restaurant.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mangerseulphobie",
+    "description": "Peur intense ou persistante liée à manger seul.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mangerdevantautresphobie2",
+    "description": "Peur intense ou persistante liée à manger devant les autres.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "boireleauphobie",
+    "description": "Peur intense ou persistante liée à boire de l'eau.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "boireverreinconnuphobie",
+    "description": "Peur intense ou persistante liée à boire dans un verre inconnu.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "boirebouteillephobie",
+    "description": "Peur intense ou persistante liée à boire dans une bouteille.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "boireavecpaillephobie",
+    "description": "Peur intense ou persistante liée à boire avec une paille.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "mangeraveccouvertsphobie",
+    "description": "Peur intense ou persistante liée à manger avec des couverts.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "utilisercouvertsinconnusphobie",
+    "description": "Peur intense ou persistante liée à utiliser des couverts inconnus.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "alimentspérimésphobie",
+    "description": "Peur intense ou persistante liée à les aliments périmés.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentscrusphobie",
+    "description": "Peur intense ou persistante liée à les aliments crus.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "viandecruephobie",
+    "description": "Peur intense ou persistante liée à la viande crue.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "poissoncruphobie",
+    "description": "Peur intense ou persistante liée à le poisson cru.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ufscrusphobie",
+    "description": "Peur intense ou persistante liée à les œufs crus.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "laitphobie",
+    "description": "Peur intense ou persistante liée à le lait.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "produitslaitiersphobie",
+    "description": "Peur intense ou persistante liée à les produits laitiers.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "fromagephobie",
+    "description": "Peur intense ou persistante liée à le fromage.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "champignonsphobie",
+    "description": "Peur intense ou persistante liée à les champignons.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "fruitsrougesphobie",
+    "description": "Peur intense ou persistante liée à les fruits rouges.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "fruitsexotiquesphobie",
+    "description": "Peur intense ou persistante liée à les fruits exotiques.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "légumesvertsphobie",
+    "description": "Peur intense ou persistante liée à les légumes verts.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentstrèsépicésphobie",
+    "description": "Peur intense ou persistante liée à les aliments très épicés.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "alimentstrèssucrésphobie",
+    "description": "Peur intense ou persistante liée à les aliments très sucrés.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "alimentstrèssalésphobie",
+    "description": "Peur intense ou persistante liée à les aliments très salés.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "alimentsgélatineuxphobie",
+    "description": "Peur intense ou persistante liée à les aliments gélatineux.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentscroquantsphobie",
+    "description": "Peur intense ou persistante liée à les aliments croquants.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentsmousphobie",
+    "description": "Peur intense ou persistante liée à les aliments mous.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentsfilandreuxphobie",
+    "description": "Peur intense ou persistante liée à les aliments filandreux.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentsgranuleuxphobie",
+    "description": "Peur intense ou persistante liée à les aliments granuleux.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentscollentphobie",
+    "description": "Peur intense ou persistante liée à les aliments qui collent.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentsfondentphobie",
+    "description": "Peur intense ou persistante liée à les aliments qui fondent.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentsfumentphobie",
+    "description": "Peur intense ou persistante liée à les aliments qui fument.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentstrèschaudsphobie",
+    "description": "Peur intense ou persistante liée à les aliments très chauds.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "alimentstrèsfroidsphobie",
+    "description": "Peur intense ou persistante liée à les aliments très froids.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "glaçonsphobie",
+    "description": "Peur intense ou persistante liée à les glaçons.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "boissonsgazeusesphobie",
+    "description": "Peur intense ou persistante liée à les boissons gazeuses.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "boissonsénergétiquesphobie",
+    "description": "Peur intense ou persistante liée à les boissons énergétiques.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "caféphobie",
+    "description": "Peur intense ou persistante liée à le café.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "théphobie",
+    "description": "Peur intense ou persistante liée à le thé.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "boissonstrèsfroidesphobie",
+    "description": "Peur intense ou persistante liée à les boissons très froides.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "boissonstrèschaudesphobie",
+    "description": "Peur intense ou persistante liée à les boissons très chaudes.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "odeursnourriturephobie",
+    "description": "Peur intense ou persistante liée à les odeurs de nourriture.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "restaurantsbondésphobie",
+    "description": "Peur intense ou persistante liée à les restaurants bondés.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "buffetsphobie",
+    "description": "Peur intense ou persistante liée à les buffets.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "cantinesphobie",
+    "description": "Peur intense ou persistante liée à les cantines.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "réfrigérateursphobie",
+    "description": "Peur intense ou persistante liée à les réfrigérateurs.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "congélateursphobie",
+    "description": "Peur intense ou persistante liée à les congélateurs.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentscongélateurphobie",
+    "description": "Peur intense ou persistante liée à les aliments dans le congélateur.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentsboîtephobie",
+    "description": "Peur intense ou persistante liée à les aliments dans une boîte.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "conservesphobie",
+    "description": "Peur intense ou persistante liée à les conserves.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bocauxphobie",
+    "description": "Peur intense ou persistante liée à les bocaux.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "saucesinconnuesphobie",
+    "description": "Peur intense ou persistante liée à les sauces inconnues.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "épicesinconnuesphobie",
+    "description": "Peur intense ou persistante liée à les épices inconnues.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "alimentsmélangésphobie",
+    "description": "Peur intense ou persistante liée à les aliments mélangés.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alimentsdontonignoreloriginephobie",
+    "description": "Peur intense ou persistante liée à les aliments dont on ignore l'origine.",
+    "categorie": "Nourriture et ingestion",
+    "rareté": "Rare"
+  },
+  {
+    "id": "téléphonesphobie",
+    "description": "Peur intense ou persistante liée à les téléphones.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "smartphonesphobie",
+    "description": "Peur intense ou persistante liée à les smartphones.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "appelstéléphoniquesphobie",
+    "description": "Peur intense ou persistante liée à les appels téléphoniques.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "appelsvidéophobie",
+    "description": "Peur intense ou persistante liée à les appels vidéo.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "messagesvocauxphobie",
+    "description": "Peur intense ou persistante liée à les messages vocaux.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "notificationsphobie",
+    "description": "Peur intense ou persistante liée à les notifications.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "notificationssonoresphobie",
+    "description": "Peur intense ou persistante liée à les notifications sonores.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "écranscassésphobie2",
+    "description": "Peur intense ou persistante liée à les écrans cassés.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "écransnoirsphobie",
+    "description": "Peur intense ou persistante liée à les écrans noirs.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "écransclignotentphobie",
+    "description": "Peur intense ou persistante liée à les écrans qui clignotent.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ordinateursphobie",
+    "description": "Peur intense ou persistante liée à les ordinateurs.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ordinateursredémarrentphobie",
+    "description": "Peur intense ou persistante liée à les ordinateurs qui redémarrent.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "pannesinformatiquesphobie",
+    "description": "Peur intense ou persistante liée à les pannes informatiques.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "pertedonnéesphobie",
+    "description": "Peur intense ou persistante liée à la perte de données.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "suppressionfichiersphobie",
+    "description": "Peur intense ou persistante liée à la suppression de fichiers.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "virusinformatiquesphobie",
+    "description": "Peur intense ou persistante liée à les virus informatiques.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "logicielsinconnusphobie",
+    "description": "Peur intense ou persistante liée à les logiciels inconnus.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "erreurssystèmephobie",
+    "description": "Peur intense ou persistante liée à les erreurs système.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "fenêtrespopupphobie",
+    "description": "Peur intense ou persistante liée à les fenêtres pop-up.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "motspassephobie",
+    "description": "Peur intense ou persistante liée à les mots de passe.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "oubliermotpassephobie",
+    "description": "Peur intense ou persistante liée à oublier un mot de passe.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtrepiratéphobie",
+    "description": "Peur intense ou persistante liée à être piraté.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "camérassurveillancephobie",
+    "description": "Peur intense ou persistante liée à les caméras de surveillance.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtrefilméparcaméraphobie",
+    "description": "Peur intense ou persistante liée à être filmé par une caméra.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "webcamsphobie",
+    "description": "Peur intense ou persistante liée à les webcams.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "microphonesphobie",
+    "description": "Peur intense ou persistante liée à les microphones.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "assistantsvocauxphobie",
+    "description": "Peur intense ou persistante liée à les assistants vocaux.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "robotsphobie",
+    "description": "Peur intense ou persistante liée à les robots.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "robotshumanoïdesphobie2",
+    "description": "Peur intense ou persistante liée à les robots humanoïdes.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "intelligencesartificiellesphobie",
+    "description": "Peur intense ou persistante liée à les intelligences artificielles.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "dronesphobie2",
+    "description": "Peur intense ou persistante liée à les drones.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "dronesvolentprèssoiphobie",
+    "description": "Peur intense ou persistante liée à les drones qui volent près de soi.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "voituresautonomesphobie",
+    "description": "Peur intense ou persistante liée à les voitures autonomes.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "véhiculesélectriquesphobie",
+    "description": "Peur intense ou persistante liée à les véhicules électriques.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bornesrechargephobie",
+    "description": "Peur intense ou persistante liée à les bornes de recharge.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ascenseursautomatiquesphobie",
+    "description": "Peur intense ou persistante liée à les ascenseurs automatiques.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "portesautomatiquesphobie",
+    "description": "Peur intense ou persistante liée à les portes automatiques.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "caissesautomatiquesphobie",
+    "description": "Peur intense ou persistante liée à les caisses automatiques.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "scannersphobie2",
+    "description": "Peur intense ou persistante liée à les scanners.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "portiquesphobie",
+    "description": "Peur intense ou persistante liée à les portiques.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "alarmesélectroniquesphobie",
+    "description": "Peur intense ou persistante liée à les alarmes électroniques.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sonneriesphobie",
+    "description": "Peur intense ou persistante liée à les sonneries.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "vibrationstéléphonephobie",
+    "description": "Peur intense ou persistante liée à les vibrations de téléphone.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bugsdaffichagephobie",
+    "description": "Peur intense ou persistante liée à les bugs d'affichage.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "écranstactilesphobie",
+    "description": "Peur intense ou persistante liée à les écrans tactiles.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "claviersphobie",
+    "description": "Peur intense ou persistante liée à les claviers.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sourisdordinateurphobie",
+    "description": "Peur intense ou persistante liée à les souris d'ordinateur.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "imprimantesphobie2",
+    "description": "Peur intense ou persistante liée à les imprimantes.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "robotsaspirateursphobie",
+    "description": "Peur intense ou persistante liée à les robots aspirateurs.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "appareilsconnectésphobie",
+    "description": "Peur intense ou persistante liée à les appareils connectés.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "perteconnexioninternetphobie",
+    "description": "Peur intense ou persistante liée à la perte de connexion internet.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "labsenceréseauphobie",
+    "description": "Peur intense ou persistante liée à l'absence de réseau.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "wifiinstablephobie",
+    "description": "Peur intense ou persistante liée à le Wi-Fi instable.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "appareilssallumentseulsphobie",
+    "description": "Peur intense ou persistante liée à les appareils qui s'allument seuls.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "appareilsparlentseulsphobie",
+    "description": "Peur intense ou persistante liée à les appareils qui parlent seuls.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "objetsconnectésinconnusphobie",
+    "description": "Peur intense ou persistante liée à les objets connectés inconnus.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "notificationspleinenuitphobie",
+    "description": "Peur intense ou persistante liée à les notifications en pleine nuit.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "appelsdunnuméroinconnuphobie",
+    "description": "Peur intense ou persistante liée à les appels d'un numéro inconnu.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "messagesduninconnuphobie",
+    "description": "Peur intense ou persistante liée à les messages d'un inconnu.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "compteslignephobie",
+    "description": "Peur intense ou persistante liée à les comptes en ligne.",
+    "categorie": "Technologie et numérique",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtrejugéphobie",
+    "description": "Peur intense ou persistante liée à être jugé.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtrerejetéphobie",
+    "description": "Peur intense ou persistante liée à être rejeté.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtreridiculiséphobie",
+    "description": "Peur intense ou persistante liée à être ridiculisé.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "fairemauvaiseimpressionphobie",
+    "description": "Peur intense ou persistante liée à faire mauvaise impression.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "rougirpublicphobie",
+    "description": "Peur intense ou persistante liée à rougir en public.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "bégayerpublicphobie",
+    "description": "Peur intense ou persistante liée à bégayer en public.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "oubliernomphobie",
+    "description": "Peur intense ou persistante liée à oublier un nom.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "oublierinformationphobie",
+    "description": "Peur intense ou persistante liée à oublier une information.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "arriverretardphobie",
+    "description": "Peur intense ou persistante liée à arriver en retard.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "arrivertroptôtphobie",
+    "description": "Peur intense ou persistante liée à arriver trop tôt.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtreinterrompuphobie",
+    "description": "Peur intense ou persistante liée à être interrompu.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "interromprequelquunphobie",
+    "description": "Peur intense ou persistante liée à interrompre quelqu'un.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "devoirimproviserphobie",
+    "description": "Peur intense ou persistante liée à devoir improviser.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "devoirrépondreimmédiatementphobie",
+    "description": "Peur intense ou persistante liée à devoir répondre immédiatement.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "nepassavoirquoidirephobie",
+    "description": "Peur intense ou persistante liée à ne pas savoir quoi dire.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "fairefautelangagephobie",
+    "description": "Peur intense ou persistante liée à faire une faute de langage.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "fairefautedorthographephobie",
+    "description": "Peur intense ou persistante liée à faire une faute d'orthographe.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "écriremessagephobie",
+    "description": "Peur intense ou persistante liée à écrire un message.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "envoyermessagemauvaisdestinatairephobie",
+    "description": "Peur intense ou persistante liée à envoyer un message au mauvais destinataire.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "recevoirappelinattenduphobie",
+    "description": "Peur intense ou persistante liée à recevoir un appel inattendu.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "recevoircomplimentphobie",
+    "description": "Peur intense ou persistante liée à recevoir un compliment.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "recevoircritiquephobie",
+    "description": "Peur intense ou persistante liée à recevoir une critique.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "recevoircadeauphobie",
+    "description": "Peur intense ou persistante liée à recevoir un cadeau.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "offrircadeauphobie",
+    "description": "Peur intense ou persistante liée à offrir un cadeau.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "ouvrircadeaudevantautresphobie",
+    "description": "Peur intense ou persistante liée à ouvrir un cadeau devant les autres.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtreregardémangerphobie",
+    "description": "Peur intense ou persistante liée à être regardé manger.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtreregardétravaillerphobie",
+    "description": "Peur intense ou persistante liée à être regardé travailler.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtreregardéécrirephobie",
+    "description": "Peur intense ou persistante liée à être regardé écrire.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtreregardémarcherphobie",
+    "description": "Peur intense ou persistante liée à être regardé marcher.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtreregardécourirphobie",
+    "description": "Peur intense ou persistante liée à être regardé courir.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "prendrephotogroupephobie",
+    "description": "Peur intense ou persistante liée à prendre une photo de groupe.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtrephotogroupephobie",
+    "description": "Peur intense ou persistante liée à être sur une photo de groupe.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtrepremierrangphobie",
+    "description": "Peur intense ou persistante liée à être au premier rang.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "êtredernierrangphobie",
+    "description": "Peur intense ou persistante liée à être au dernier rang.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sasseoircentrephobie",
+    "description": "Peur intense ou persistante liée à s'asseoir au centre.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "sasseoirprèsduninconnuphobie",
+    "description": "Peur intense ou persistante liée à s'asseoir près d'un inconnu.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Très rare"
+  },
+  {
+    "id": "prendreparoleréunionphobie",
+    "description": "Peur intense ou persistante liée à prendre la parole en réunion.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "poserquestionphobie",
+    "description": "Peur intense ou persistante liée à poser une question.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "répondrequestionphobie",
+    "description": "Peur intense ou persistante liée à répondre à une question.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  },
+  {
+    "id": "donneravisphobie",
+    "description": "Peur intense ou persistante liée à donner son avis.",
+    "categorie": "Espace social et quotidien",
+    "rareté": "Rare"
+  }
+]
